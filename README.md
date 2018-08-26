@@ -13,12 +13,12 @@ Since Fast Crop Tool can delete images with a single button press, it is recomme
 <h3>Controls</h3>
 Fast Crop Tool uses one-button hotkey controls to help you quickly take crops of uniform size out of a large number of images. You may also take multiple crops out of the same image. The controls are as follows:
 
-<b>D</b> - Advance to the next image.
-<b>A</b> - Go back to the previous image.
-<b>W</b> - Delete the current image and advance to the next image. <b>WARNING:</b> This will delete your image.
-<b>Q</b> - Close out the window and quit Fast Crop Tool.
-<b>Left-Click</b> - Make a crop where the green rectangle appears. The crop will be automatically saved to your destination folder.
-<b>Scroll Wheel</b> - Increase/decrease the size of the crop rectangle. Note that crops will be scaled down to your desired crop size.
+<b>D</b> - Advance to the next image. <br/>
+<b>A</b> - Go back to the previous image. <br/>
+<b>W</b> - Delete the current image and advance to the next image. <b>WARNING:</b> This will delete your image. <br/>
+<b>Q</b> - Close out the window and quit Fast Crop Tool. <br/>
+<b>Left-Click</b> - Make a crop where the green rectangle appears. The crop will be automatically saved to your destination folder. <br/>
+<b>Scroll Wheel</b> - Increase/decrease the size of the crop rectangle. Note that crops will be scaled down to your desired crop size. <br/>
 
 <h3>Supported File Types</h3>
 The following image types are supported thanks to the <a href="https://opencv.org/">OpenCV Library</a>:
