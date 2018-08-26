@@ -1,7 +1,7 @@
 # Fast Crop Tool
 A tool for manually cropping images down to a uniform size at a brisk pace.
 
-<center><img src="https://raw.githubusercontent.com/No-Life-King/fast_crop_tool/master/user_guide_images/demo.gif"/></center>
+<img src="https://raw.githubusercontent.com/No-Life-King/fast_crop_tool/master/user_guide_images/demo.gif" align="middle"/>
 
 <h2>How to Use Fast Crop Tool</h2>
 Fast Crop Tool is a Python 3 script. To run it, you need to have Python 3 installed and execute the script from command prompt or set your operating system's default action for handling .py files to the Python interpreter and double click it. For more information on installing Python and running python scripts go to <a href="https://www.python.org/">python.org</a>. When you run the script, a configuration interface will be displayed. 
