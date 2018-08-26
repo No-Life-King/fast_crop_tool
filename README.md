@@ -12,7 +12,7 @@ Since Fast Crop Tool can delete images with a single button press, it is recomme
 
 <h3>Controls</h3>
 Fast Crop Tool uses one-button hotkey controls to help you quickly take crops of uniform size out of a large number of images. You may also take multiple crops out of the same image. The controls are as follows:
-
+<br/>
 <b>D</b> - Advance to the next image. <br/>
 <b>A</b> - Go back to the previous image. <br/>
 <b>W</b> - Delete the current image and advance to the next image. <b>WARNING:</b> This will delete your image. <br/>
